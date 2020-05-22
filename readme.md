@@ -4,24 +4,24 @@
 # Befeni Technical Test [Basic]
 </center>
 
-#### Start Setup
+## Start Setup
 
-## Clone Repo
+#### Clone Repo
 `git clone https://github.com/brijal1987/befeni-technical-test-basic.git`
 
-## Install Dependencies
+#### Install Dependencies
 `yarn or yarn install`
 
-## Start Server
+#### Start Server
 `node app.js` and `Server running at http://127.0.0.1:5000/`
 
-## Start Web
+#### Start Web
 `yarn start` and `Client running at http://localhost:3000`
 
-## Run tests
+#### Run tests
 `yarn test`
 
-#### End Setup
+## End Setup
 
 
 ## Test Overview
