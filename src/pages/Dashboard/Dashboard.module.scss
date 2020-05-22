@@ -1,0 +1,14 @@
+@import '../../styles/variables.scss';
+
+.root {
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-image: url('../../assets/svgs/Frame.svg');
+  background-size: cover;
+  .card {
+    padding: 40px;
+  }
+}
