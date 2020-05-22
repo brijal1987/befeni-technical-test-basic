@@ -18,8 +18,11 @@
 #### Start Web
 `yarn start` and `Client running at http://localhost:3000`
 
-#### Run tests
+#### Run tests for Client
 `yarn test`
+
+#### Run tests for Server
+`yarn test:server`
 
 ## End Setup
 
